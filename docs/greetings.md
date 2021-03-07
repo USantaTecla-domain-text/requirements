@@ -10,9 +10,9 @@
 ## Saludo Mundo
 
 * Mostrar:
- * "Hola, Mundo!!!"
- * "Disculpa, no me despedí!!!"
- * "Hasta luego!!!"
+  * "Hola, Mundo!!!"
+  * "Disculpa, no me despedí!!!"
+  * "Hasta luego!!!"
 
 [javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/hiWorld1Message/logic.js)
 
@@ -21,9 +21,9 @@
 ## Saludo Mundo por partes
 
 * Mostrar en distintas ventanas:
- * "Hola, Mundo!!!"
- * "Disculpa, no me despedí!!!"
- * "Hasta luego!!!"
+  * "Hola, Mundo!!!"
+  * "Disculpa, no me despedí!!!"
+  * "Hasta luego!!!"
 
 [javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/hiWorld3Messages/logic.js)
 
@@ -31,7 +31,7 @@
 
 * Solicitar el nombre del usuario
 * Mostrar:
- * "Hola, <nombre>!!!"
+  * "Hola, <nombre>!!!"
 
 [javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/personalizedGreetings/logic.js)
 
