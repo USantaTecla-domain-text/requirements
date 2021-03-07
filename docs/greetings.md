@@ -31,7 +31,7 @@
 
 * Solicitar el nombre del usuario
 * Mostrar:
-  * "Hola, &lg;nombre&gt;!!!"
+  * "Hola, &lt;nombre&gt;!!!"
 
 [javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/personalizedGreetings/logic.js)
 
