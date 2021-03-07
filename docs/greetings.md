@@ -3,7 +3,7 @@
 ## Hola Mundo
 
 * Mostrar:
- * "Hola Mundo"
+  * "Hola Mundo"
 
 [javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/hiWorld/logic.js)
 
