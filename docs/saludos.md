@@ -18,11 +18,20 @@
 
 [1-programacionImperativa/4-expresiones](https://github.com/USantaTecla-domain-text/javascript/blob/master/saludos/1-programacionImperativa/4-expresiones/logic.js) por legibilidad
 
-## Saludo personalizado
+## Hola personalizado
 
 * Solicitar el nombre del usuario
 * Mostrar:
   * "Hola, &lt;nombre&gt;!!!"
 
 [1-programacionImperativa/2-sentenciasSimples/2-entrada](https://github.com/USantaTecla-domain-text/javascript/blob/master/saludos/1-programacionImperativa/2-sentenciasSimples/2-entrada/logic.js)
+
+## Saludo personalizado
+
+* Solicitar el nombre del usuario
+* Mostrar:
+  * "Hola, &lt;nombre&gt;!!!"
+  * "Adios, &lt;nombre&gt;!!!"
+
+[1-programacionImperativa/2-sentenciasSimples/3-sentenciaLet](https://github.com/USantaTecla-domain-text/javascript/blob/master/saludos/1-programacionImperativa/2-sentenciasSimples/3-sentenciaLet/logic.js)
 
