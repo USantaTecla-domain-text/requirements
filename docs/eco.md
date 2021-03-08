@@ -7,6 +7,7 @@
 
 [1-programacionImperativa/2-sentenciasSimples/2-entrada](https://github.com/USantaTecla-domain-text/javascript/blob/master/eco/1-programacionImperativa/2-sentenciasSimples/2-entrada/logic.js)
 
+## Eco triple
 
 * Mostrar por pantalla la entrada del usuario en diferentes ventanas:
   * &lt;mensaje&gt;!!!
