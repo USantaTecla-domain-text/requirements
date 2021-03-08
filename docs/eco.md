@@ -1,4 +1,4 @@
-# Eco
+# Ecos
 
 ## Eco simple
 
