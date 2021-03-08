@@ -5,7 +5,7 @@
 * Mostrar:
   * "Hola Mundo"
 
-[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/hiWorld/logic.js)
+[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/2-sentenciasSimples/1-salida/logic.js)
 
 ## Saludo Mundo
 
@@ -14,9 +14,9 @@
   * "Disculpa, no me despedí!!!"
   * "Hasta luego!!!"
 
-[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/hiWorld1Message/logic.js)
+[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/2-sentenciasSimples/1-salida.3-lineas/logic.js)
 
-[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/hiWorld1MessageLegible/logic.js)
+[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/4-expresiones/logic.js)
 
 ## Saludo Mundo por partes
 
@@ -25,7 +25,7 @@
   * "Disculpa, no me despedí!!!"
   * "Hasta luego!!!"
 
-[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/hiWorld3Messages/logic.js)
+[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/2-sentenciasSimples/1-salida.3-ventanas/logic.js)
 
 ## Saludo personalizado
 
@@ -33,5 +33,5 @@
 * Mostrar:
   * "Hola, &lt;nombre&gt;!!!"
 
-[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/personalizedGreetings/logic.js)
+[javascript](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/2-sentenciasSimples/2-entrada/logic.js)
 
