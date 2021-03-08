@@ -16,7 +16,7 @@
 
 [1-programacionImperativa/2-sentenciasSimples/1-salida.3-lineas](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/2-sentenciasSimples/1-salida.3-lineas/logic.js)
 
-[1-programacionImperativa/4-expresiones](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/4-expresiones/logic.js)
+[1-programacionImperativa/4-expresiones](https://github.com/USantaTecla-domain-text/javascript/blob/master/greetings/1-programacionImperativa/4-expresiones/logic.js) por legibilidad
 
 ## Saludo Mundo por partes
 
